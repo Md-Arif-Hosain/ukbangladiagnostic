@@ -1,0 +1,1502 @@
+/*Destop and Laptop*/
+@media (max-width:2000px) {
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 934px;
+    }
+}
+
+@media screen and (max-width: 1900px) {
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 890px;
+    }
+
+    .services .ment button {
+        margin-left: 13px;
+    }
+}
+
+@media screen and (max-width: 1800px) {
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 849px;
+    }
+}
+
+@media screen and (max-width: 1700px) {
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 798px;
+    }
+}
+
+@media screen and (max-width: 1600px) {
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 751px;
+    }
+}
+
+@media screen and (max-width: 1500px) {
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 700px;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 650px;
+    }
+}
+
+/****/
+@media screen and (max-width: 1300px) {
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 600px;
+    }
+}
+
+@media screen and (max-width: 1260px) {
+    .topbar .logo img {
+        margin-left: 21px;
+    }
+
+    .topbar .top {
+        margin-left: 27px;
+    }
+
+    .doctors .team .col-3 {
+        margin-left: 22px;
+        width: 284px;
+    }
+
+    .services .ment .web {
+        margin-left: 21px;
+    }
+
+    .footer .foot .col-4 {
+        margin-left: 40px;
+        width: 346px;
+    }
+
+    .services .ment button {
+        margin-left: 15px;
+    }
+
+    .food h4 {
+        margin-left: 42px;
+    }
+    .slider .item .text {
+        margin-left: 245px;
+    }
+}
+
+@media screen and (max-width: 1223px) {
+    .doctors .team img {
+        width: 265px;
+    }
+
+    .doctors .team .col-3 {
+        margin-left: 27px;
+        width: 258px;
+    }
+
+}
+
+/****/
+@media screen and (max-width: 1200px) {
+    .contact .cont .msg input {
+        width: 79%;
+    }
+    .about .aboutus h1 {
+        font-size: 23px;
+    }
+    .about .aboutus p {
+        width: 516px;
+    }
+
+    .services .ment h2 {
+        font-size: 21px;
+    }
+ 
+}
+
+@media screen and (max-width: 1179px) {
+    .topbar h2 {
+        font-size: 21px;
+    }
+
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 576px;
+    }
+
+    .contact .cont form input {
+        width: 223px;
+    }
+
+    .contact .cont .msg input {
+        width: 75%;
+    }
+
+    .footer .foot .col-4 {
+        margin-left: 42px;
+        width: 330px;
+    }
+}
+
+/****/
+@media screen and (max-width: 1140px) {
+    .about .aboutus h1 {
+        margin-top: 80px;
+        font-size: 22px;
+    }
+
+    .slider .owl-theme .item img {
+        height: 700px;
+    }
+
+    .about .aboutus h3 {
+        margin-top: 9px;
+    }
+
+    .doctors .team .col-3 {
+        margin-left: 24px;
+        width: 250px;
+    }
+
+    .doctors .team img {
+        width: 250px;
+    }
+
+    .services .ment .web {
+        margin-left: 37px;
+    }
+
+    .contact .cont form input {
+        width: 209px;
+    }
+
+    .contact .cont .msg input {
+        width: 72%;
+    }
+
+    .about .aboutus p {
+        width: 500px;
+    }
+
+}
+
+@media (max-width:1120px) {
+    .header .manu .nav ul a {
+        padding: 16px;
+    }
+
+    .contact .cont form input {
+        width: 200px;
+    }
+
+    .contact .cont .msg input {
+        width: 70%;
+    }
+
+    .contact .cont form input[type=submit] {
+        width: 26%;
+    }
+
+    .food .social .fa-brands {
+        margin: 22px 10px 0px 15px;
+    }
+
+    .doctors .team .col-3 {
+        width: 245px;
+    }
+
+    .footer .foot .col-4 {
+        margin-left: 33px;
+        width: 287px;
+    }
+
+    .services .ment .web {
+        margin-left: 26px;
+    }
+}
+
+/****/
+@media screen and (max-width: 1080px) {
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 549px;
+    }
+    .topbar h2 {
+        font-size: 20px;
+    }
+    .about .aboutus h1 {
+        margin-top: 67px;
+        font-size: 20px;
+    }
+    .about .aboutus p {
+        width: 464px;
+        font-size: 19px;
+    }
+    .doctors .team .col-3 {
+        width: 229px;
+    }
+
+    .doctors .team img {
+        width: 233px;
+    }
+
+    .header .manu .nav ul a {
+        font-size: 19px;
+    }
+
+    #manu {
+        margin-left: 11px;
+    }
+
+    .contact .cont form input {
+        width: 191px;
+    }
+
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 504px;
+    }
+
+    .doctors .team button {
+        margin-left: 485px;
+    }
+
+    .services .ment .web {
+        margin-left: 14px;
+    }
+
+    .services .ment .btn {
+        margin-left: 492px;
+    }
+
+    .social p {
+        margin-left: 115px;
+    }
+
+    .food h4 {
+        margin-left: 21px;
+        margin-right: -9px;
+    }
+
+    ntact .cont .msg input {
+        width: 69%;
+    }
+
+    .header .button {
+        margin: 15px 0px;
+        margin-left: 14px;
+    }
+    .slider .item .text {
+        margin-left: 131px;
+    }
+}
+
+
+/*Tab*/
+/****/
+@media screen and (max-width: 1024px) {
+    .contact .cont form input {
+        width: 179px;
+    }
+
+    .food h4 {
+        margin-right: -53px;
+    }
+
+    .header .button {
+        margin-left: 13px;
+    }
+
+    .about .aboutus h1 {
+        margin-top: 59px;
+        font-size: 19px;
+    }
+
+    .about .aboutus h3 {
+        margin-top: 6px;
+    }
+
+    .about .aboutus p {
+        width: 445px;
+    }
+
+    .doctors .team h1 {
+        margin: 35px;
+        font-size: 39px;
+    }
+
+    .doctors .team .col-3 {
+        width: 220px;
+    }
+
+    .services .ment h2 {
+        font-size: 18px;
+        margin: 12px;
+    }
+}
+
+/****/
+@media screen and (max-width: 992px) {
+    .doctors .team .col-3 {
+        width: 226px;
+        margin-left: 16px;
+    }
+
+    .contact .cont .msg input {
+        width: 71%;
+    }
+
+    .topbar .topbar-content ul li {
+        margin-left: 12px;
+    }
+
+    .about .aboutus h1 {
+        font-size: 18px;
+    }
+    .about .aboutus p {
+        width: 417px;
+    }
+
+}
+
+@media (max-width:976px) {
+    .topbar .topbar-content ul li {
+        margin-left: 3px;
+    }
+
+    .doctors .team img {
+        width: 213px;
+    }
+
+    .doctors .team .col-3 {
+        width: 226px;
+        margin-left: 7px;
+    }
+
+    .header .manu .nav ul a {
+        padding: 14px;
+    }
+
+    .topbar h2 {
+        font-size: 18px;
+        margin-left: 11px;
+    }
+
+    .topbar h3 {
+        margin-top: 4px;
+        margin-left: 13px;
+        font-size: 16px;
+    }
+
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 486px;
+    }
+
+    .doctors .team .col-3 {
+        width: 230px;
+        margin-left: -2px;
+    }
+
+    .doctors .team h2 {
+        font-size: 18px;
+    }
+
+    .doctors .team h3 {
+        font-size: 14px;
+    }
+
+    .doctors .team h4 {
+        font-size: 13px;
+    }
+
+    .team {
+        margin-left: 13px;
+    }
+
+    .footer .foot .col-4 {
+        width: 263px;
+    }
+}
+
+@media (max-width:940px) {
+    .contact .cont form input {
+        width: 384px;
+    }
+
+    .header .manu .nav ul a {
+        padding: 12px;
+    }
+
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 459px;
+    }
+
+    .topbar .topbar-content ul li {
+        margin-left: -17px;
+    }
+
+    .header .button {
+        margin-left: -6px;
+    }
+
+    .about .aboutus p {
+        width: 351px;
+    }
+
+    .about .aboutus h1 {
+        font-size: 25px;
+    }
+}
+
+@media (max-width:924px) {
+    .team {
+        margin-left: 103px;
+    }
+
+    .doctors .team .col-3 {
+        width: 264px;
+    }
+
+    .doctors .team img {
+        width: 241px;
+    }
+
+    .doctors .team button {
+        margin-left: 106px;
+        margin-top: 85px;
+    }
+
+    .footer .foot .col-4 {
+        width: 248px;
+    }
+
+    .topbar h2 {
+        font-size: 17px;
+    }
+    .slider .item .text {
+        margin-left: 47px;
+    }
+}
+
+@media (max-width:900px) {
+    .topbar h2 {
+        font-size: 16px;
+    }
+
+    .header .manu .nav ul a {
+        padding: 8px;
+    }
+
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 416px;
+    }
+
+    .team {
+        margin-left: 49px;
+    }
+
+    .contact .cont form input {
+        width: 338px;
+    }
+
+    .services .ment .btn {
+        margin-left: 416px;
+    }
+
+    .contact .cont .msg input {
+        width: 63%;
+    }
+
+    .contact .cont .address h3 {
+        text-align: justify;
+        margin-left: 35px;
+    }
+
+    .contact .cont form input[type=submit] {
+        margin-bottom: 22px;
+    }
+
+    .contact .cont .conts {
+        margin-bottom: 18px;
+    }
+
+    .contact .cont form input {
+        margin: 5px;
+    }
+
+    .about .aboutus img {
+        height: 445px;
+        margin: 85px 18px;
+    }
+
+    .food h4 {
+        margin-right: -95px;
+    }
+}
+
+@media(max-width:862px) {
+    .services .ment .web {
+        margin-left: 4px;
+    }
+
+    .services .ment {
+        margin-left: 11px;
+    }
+
+    .services .ment img {
+        width: 92%;
+    }
+
+    .contact .cont form input {
+        width: 330px;
+    }
+
+    .contact .cont .msg input {
+        width: 274px;
+        padding: 40px;
+    }
+    .food .social .fa-brands {
+        margin: 22px -7px 0px 15px;
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 366px;
+    }
+    .doctors .team h1 {
+        margin: 40px;
+        font-size: 37px;
+    }
+
+    .services .ment h1 {
+        margin: 40px;
+        font-size: 37px;
+    }
+
+    .food h4 {
+        margin-right: -127px;
+    }
+
+    .topbar .topbar-content ul li {
+        margin-left: -23px;
+    }
+
+    .header .manu .nav ul a {
+        font-size: 18px;
+        padding: 7px;
+    }
+
+    .header .button {
+        font-size: 18px;
+        padding: 19px;
+        width: 148px;
+    }
+
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 391px;
+    }
+
+    .contact .cont .address h3 {
+        margin-left: 17px;
+    }
+
+    .footer .foot .col-4 {
+        width: 231px;
+    }
+    .footer .foot h1 {
+        margin-top: 32px;
+        margin-bottom: 13px;
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 843px) {
+    .topbar .two ul li {
+        margin-top: 45px;
+        margin-left: -100px;
+    }
+    .topbar .one ul li {
+        margin-left: 39px;
+        width: 200px;
+        margin-top: 17px;
+    }
+    .about .aboutus h1 {
+        font-size: 23px;
+    }
+    .services .ment img {
+        width: 82%;
+    }
+    .services .ment .web {
+        margin-left: 0px;
+    }
+    .contact .cont form input {
+        width: 323px;
+    }
+    .contact .cont h1 {
+        margin-bottom: 19px;
+        font-size: 27px;
+    }
+    .contact .cont h3 {
+        margin-bottom: 8px;
+        margin-top: 12px;
+    }
+    .header .button {
+        font-size: 16px;
+        padding: 17px;
+        width: 136px;
+    }
+    .slider .owl-theme .item img {
+        height: 591px;
+    }
+    .doctors .team .col-3 {
+        width: 251px;
+    }
+    .doctors .team img {
+        width: 232px;
+    }
+    .doctors .team .seven {
+        margin-left: -203px;
+    }
+    .doctors .team button {
+        margin-left: 66px;
+    }
+    .services .ment h2 {
+        font-size: 14px;
+        margin: 7px;
+    }
+    .contact .cont .address h3 {
+        font-size: 17px;
+    }
+    .topbar .logo img {
+        width: 113%;
+    }
+    .services .ment .btn {
+        margin-left: 378px;
+    }
+    .contact .cont form input[type=submit] {
+        width: 32%;
+    }
+    .contact .cont h1 {
+        font-size: 24px;
+    }
+    .slider .item .text {
+        padding: 17px;
+    }
+    .slider .item .text {
+        line-height: 44px;
+        font-size: 15px;
+        bottom: 207px;
+    }
+    .slider .text button {
+        font-size: 13px;
+        padding: 9px;
+    }
+}
+
+/****/
+@media screen and (max-width: 800px) {
+    .topbar .two ul li {
+        margin-left: -94px;
+    }
+    .header .manu .nav ul a {
+        font-size: 16px;
+    }
+    .doctors .team .col-3 {
+        width: 243px;
+    }
+    .team {
+        margin-left: 28px;
+    }
+    .doctors .team img {
+        width: 226px;
+    }
+    .doctors .team button {
+        margin-top: 68px;
+        margin-left: 49px;
+    }
+    .contact .cont form input {
+        width: 307px;
+    }
+    .footer .foot .col-4 {
+        margin-left: 21px;
+    }
+    .topbar h2 {
+        font-size: 15px;
+    }
+    .about .aboutus p {
+        width: 327px;
+    }
+}
+
+/****/@media only screen and (max-width: 768px) {
+    .contact .cont .msg input {
+        width: 68%;
+    }
+}
+
+/*Mobile*/
+/****/
+@media only screen and (max-width: 767px) {
+    .header .main-manu {
+        display: none;
+    }
+
+    .mobileIcon {
+        display: block;
+        font-size: 35px;
+        float: left;
+        margin-right: 39px;
+        margin-top: 7px;
+        margin-left: 35px;
+    }
+    #mobile-manu {
+        background-color: #DDF7E3;
+        z-index: 999999;
+        position: absolute;
+        width: 151px;
+        padding: 11px;
+        margin: -10px 0px 0px 20px;
+        border-radius: 3px;
+    }
+
+    #mobile-manu ul li {
+        list-style: none;
+        padding: 7px;
+        position: relative;
+        top: 0px;left: 0px;
+    }
+
+     #mobile-manu ul li a {
+        text-decoration: none;
+        color: #0d0c0c;
+        padding: 10px 20px 10px 10px;
+        font-size: 16px;
+    }
+    #mobile-manu .nav ul ul ul {
+    left: 30%;
+    top: 20px;
+} 
+    #mobile-manu .nav ul li ul{
+        display:none;
+        margin-left: 110px;
+        position: absolute;
+        margin-top: -20px;
+    }
+    #mobile-manu .nav ul li ul li ul{
+        margin-left: 85px;
+    }
+   
+    #mobile-manu .nav ul li:hover>ul{
+        display: block;
+        position: absolute;
+        background-color: white;
+        width: 195px;
+    } 
+    #mobile-manu .nav ul li a:hover {
+    background-color: #08f0f8;
+}
+#mobile-manu .nav ul li:hover>ul li {
+    border-bottom: 2px solid #cac2c2;
+}
+/* Stikey Header */
+.Mobile{
+    position: sticky;
+    top: 70px;
+   left: 0px;
+}
+.sticky+.content {
+    padding-top: 102px;
+}
+/* End Stiky Header */
+    .topbar .one ul li {
+        margin-left: 57px;
+    }
+    .topbar h2 {
+        margin-right: -32px;
+    }
+    .topbar .two ul li {
+        margin-left: -72px;
+    }
+    .about .aboutus h1 {
+        font-size: 22px;
+    }
+    .about .aboutus p {
+        width: 288px;
+    }
+    .about .aboutus img {
+        height: 498px;
+    }
+    .contact .cont form input {
+        width: 271px;
+    }
+    .contact .cont .msg input {
+        width: 222px;
+        padding: 36px;
+    }
+    .footer .foot .col-4 {
+        width: 215px;
+    }
+    .doctors .team img {
+        width: 220px;
+    }
+    .doctors .team .col-3 {
+        width: 234px;
+    }
+    .doctors .team h4 {
+        font-size: 12px;
+    }
+    
+}
+@media(max-width:723px){
+    .doctors .team .col-3 {
+        width: 229px;
+    }
+    .team {
+        margin-left: 18px;
+    }
+    .doctors .team img {
+        width: 214px;
+    }
+    .contact .cont .address h3 {
+        font-size: 15px;
+    }
+    .food h4 {
+       font-size: 13px;
+    }
+    .about .aboutus p {
+        width: 300px;
+    }
+    .topbar .two ul li {
+        margin-left: -66px;
+    }
+    .footer .foot .col-4 {
+        width: 203px;
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 343px;
+    }
+}
+@media(max-width:700px){
+    .about .aboutus .col-6 {
+        width: 100%;
+    }
+    .about .aboutus img {
+        height: 300px;
+        margin: 30px 18px;
+    }
+    .about .aboutus h1 {
+        font-size: 23px;
+        margin-top: -3px;
+    }
+    .about .aboutus .About {
+        margin: 0px 10px 30px 30px;
+    }
+    .about .aboutus p {
+        width: 100%;
+    }
+    .about .aboutus h3 {
+        font-size: 20px;
+    }
+    .topbar h2 {
+        margin-right: -96px;
+    }
+    .contact .cont .address h3 {
+        font-size: 14px;
+    }
+    .team {
+        margin-left: 71px;
+    }
+    .doctors .team .col-3 {
+        width: 257px;
+    }
+    .doctors .team img {
+        width: 236px;
+    }
+    .doctors .team .seven {
+    margin-left: 0px;
+    }
+    .doctors .team button {
+        margin-top: -13px;
+        margin-left: 209px;
+    }
+    .doctors .team h1 {
+        margin: 34px;
+        font-size: 35px;
+        margin-left: -30px;
+    }
+    .slider .owl-theme .item img {
+        height: 562px;
+    }
+    .contact .cont form input {
+        width: 246px;
+    }
+    .contact .cont .msg input {
+        width: 199px;
+    }
+}
+@media (max-width:676px){
+    .services .ment .btn {
+        margin-left: 341px;
+    }
+    .footer .foot .col-4 {
+        width: 183px;
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 320px;
+    }
+    .contact .cont .address h3 {
+        font-size: 13px;
+    }
+}
+@media (max-width:636px){
+    .topbar .logo img {
+        width: 138%;
+        margin-top: 20px;
+    }
+    .topbar h2 {
+        margin-left: 30px;
+    }
+    .topbar h3 {
+        margin-left: 31px;
+    }
+    .services .ment .col-4 {
+        width: 50%;
+        float: left;
+    }
+    .services .ment .btn {
+        margin-left: 325px;
+    }
+    .topbar .two ul li {
+        margin-top: 79px;
+        margin-left: -118px;
+        margin-bottom: 8px;
+    }
+    .topbar .one ul li {
+        margin-left: -260px;
+        margin-top: 76px;
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 299px;
+    }
+    .footer .foot .col-4 {
+        width: 173px;
+    }
+    .contact .cont form input {
+        width: 221px;
+    }
+    .contact .cont .msg input {
+        width: 176px;
+    }
+}
+/****/
+@media only screen and (max-width: 640px) {
+    
+}
+@media(max-width:612px){
+    .topbar .one ul li {
+        margin-left: -243px;
+    }
+
+.slider .item .text {
+    line-height: 36px;
+    font-size: 11px;
+}
+.slider .text button {
+    font-size: 11px;
+}
+}
+/****/
+@media only screen and (max-width: 600px) {
+    .topbar .one ul li {
+        margin-left: -238px;
+        width: 144px;
+    }
+    .contact .cont {
+        margin-top: -30px;
+        padding: 0px;
+        margin-left: -23px;
+    }
+    .team {
+        margin-left: 33px;
+    }
+    .contact .cont .col-6 {
+        margin-bottom: 14px;
+        width: 100%;
+    }
+    .contact .cont h3 {
+        margin-top: 19px;
+    }
+    .contact .cont .address h3 {
+        font-size: 18px;
+        margin-left: 51px;
+    }
+    .contact .cont form input {
+        width: 201px;
+    }
+    .contact .cont .msg input {
+        width: 392px;
+    }
+    .footer .foot .col-4 {
+        width: 245px;
+    }
+    .footer .opentime .col-4 {
+        margin-right: 79px;
+    }
+    .footer .opentime h1 {
+        margin-top: -3px;
+    }
+    .topbar h2 {
+        margin-right: -183px;
+    }
+    .topbar h3 {
+        margin-right: -81px;
+    }
+    .food .col-6 {
+        width: 100%;
+        float: left;
+    }
+    .social p {
+        text-align: center;
+        margin-top: -93px;
+        margin-left: 19px;
+    }
+    .food h4 {
+        font-size: 16px;
+        margin-top: 45px;
+        margin-left: 42px;
+    }
+}
+
+@media (max-width:569px){
+    .topbar .one ul li {
+        margin-left: -221px;
+    } 
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 268px;
+    }
+    .topbar .logo img {
+        width: 145%;
+    }
+}
+@media (max-width:547px){
+    .team {
+        margin-left: 18px;
+    }
+    .doctors .team img {
+        width: 222px;
+    }
+    .doctors .team .col-3 {
+        width: 241px;
+    }
+    .services .ment .btn {
+        margin-left: 236px;
+    }
+    .topbar .one ul li {
+        margin-left: -210px;
+    }
+}
+@media (max-width:532px){
+    .footer .foot .col-4 {
+        width: 219px;
+    }
+    .contact .cont form input {
+        width: 187px;
+    }
+    .contact .cont .msg input {
+        width: 367px;
+    }
+}
+
+/****/
+@media screen and (max-width: 514px) {
+    .topbar .one ul li {
+        margin-left: -192px;
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 233px;
+    }
+    .food h4 {
+        font-size: 14px;
+        margin-left: 21px;
+    }
+}
+@media screen and (max-width: 496px) {
+    .doctors .team .col-3 {
+        width: 232px;
+    }
+    .team {
+        margin-left: 10px;
+    }
+    .contact .cont form input {
+        width: 301px;
+    }
+    .contact .cont .msg input {
+        width: 251px;
+    }
+}
+
+/****/
+@media screen and (max-width: 480px) {
+    .topbar .one ul li {
+        margin-left: -181px;
+    }
+    .slider .owl-theme .item img {
+        height: 550px;
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 208px;
+    }
+    .doctors .team .col-3 {
+        width: 213px;
+    }
+    .doctors .team img {
+        width: 194px;
+    }
+    .services .ment img {
+        width: 90%;
+    }
+    .services .ment .btn {
+        margin-left: 196px;
+    }
+    .footer .foot .col-4 {
+        width: 205px;
+    }
+    .slider .item .text {
+        margin-left: 8px;
+    }
+}
+@media screen and (max-width: 450px) {
+    .topbar .two ul li {
+        margin-top: 105px;
+        margin-left: -244px;
+    }
+    .topbar .one ul li {
+        margin-left: -164px;
+    }
+    .topbar .logo img {
+        width: 167%;
+        margin-left: 10px;
+        margin-top: 30px;
+    }
+    .mobileIcon {
+        font-size: 33px;
+        margin-left: 13px;
+    }
+    #mobile-manu {
+        margin: -10px 0px 0px 5px;
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 199px;
+    }
+    .doctors .team .col-3 {
+        width: 205px;
+    }
+    .contact .cont .address h3 {
+        font-size: 15px;
+        margin-left: 48px;
+    }
+    .footer .foot .col-4 {
+        margin-left: 42px;
+    }
+    .food h4 {
+        font-size: 13px;
+        margin-left: 10px;
+    }
+    .footer .address h1 {
+        margin-top: -16px;
+    }
+    .footer .opentime h1 {
+        margin-top: 19px;
+    }
+    .footer .foot .col-4 {
+        width: 248px;
+    }
+    
+}
+@media screen and (max-width: 421px) {
+    .topbar .logo img {
+        height: 107px;
+        width: 155px;
+        margin-left: 20px;
+        margin-top: 15px;
+    }
+    .topbar h2 {
+        margin-top: 128px;
+        font-size: 17px;
+        margin-left: -44px;
+    }
+    .topbar h3 {
+        margin-left: -46px;
+    }
+    .services .ment img {
+        width: 86%;
+    }
+    .topbar .one ul li {
+        margin-left: -227px;
+        margin-top: 191px;
+    }
+    .topbar .two ul li {
+        margin-top: 222px;
+        margin-left: -299px;
+    }
+    .services .ment h2 {
+        font-size: 18px;
+    }
+    .doctors .team h4 {
+        font-size: 14px;
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 169px;
+    }
+    .doctors .team .col-3 {
+        width: 300px;
+        margin-left: 83px;
+    }
+    .doctors .team img {
+        width: 240px;
+    }
+    .doctors .team button {
+        margin-left: 140px;
+    }
+    .services .ment .col-4 {
+        width: 100%;
+        float: left;
+    }
+    .services .ment .btn {
+        margin-left: 160px;
+    }
+    .contact .cont form input {
+        width: 286px;
+    }
+    .contact .cont .msg input {
+        width: 238px;
+    }
+    .slider .item .text {
+        line-height: 32px;
+        font-size: 8px;
+    }
+}
+@media screen and (max-width: 407px) {
+    .topbar h2 {
+        font-size: 14px;
+    }
+    .topbar h3 {
+        margin-top: -3px;
+        margin-left: -42px;
+        font-size: 15px;
+    }
+    .topbar .one ul li {
+        margin-left: -214px;
+        margin-top: 182px;
+    }
+    .topbar .two ul li {
+        margin-top: 213px;
+        margin-left: -281px;
+    }
+    .doctors .team h1 {
+        margin: 26px;
+        font-size: 29px;
+        margin-left: -19px;
+    }
+    .services .ment h1 {
+        margin: 34px;
+        font-size: 32px;
+    }
+    .contact .cont .fa-solid {
+        font-size: 17px;
+    }
+    .contact .cont .msg input {
+        width: 209px;
+    }
+    .contact .cont .address h3 {
+        font-size: 14px;
+        margin-left: 58px;
+    }
+    .food h4 {
+        font-size: 77%;
+    }
+    .about .aboutus img {
+        height: 287px;
+        margin: 30px 11px;
+    }
+    .about .aboutus .About {
+        margin: 0px 10px 20px 10px;
+    }
+    .contact .cont form input {
+        width: 257px;
+    }
+    .contact .cont form input {
+        width: 257px;
+    }
+    .doctors .team .col-3 {
+        width: 100%;
+        margin-left: 55px;
+    }
+    .services .ment .btn {
+        margin-left: 118px;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .topbar h2 {
+        margin-left: -38px;
+    }
+    .topbar h3 {
+        margin-left: -38px;
+    }
+    .topbar .one ul li {
+        margin-left: -196px;
+    }
+    .topbar .two ul li {
+        margin-left: -255px;
+    }
+    .header .button {
+        margin-left: -15px;
+    }
+    .slider .owl-theme .item img {
+        height: 510px;
+    }
+    .about .aboutus img {
+        height: 268px;
+    }
+    .doctors .team .col-3 {
+        width: 100%;
+        margin-left: 54px;
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots {
+        margin-left: 151px;
+    }
+    .services .ment img {
+        width: 83%;
+    }
+    .social p {
+        margin-left: -27px;
+    }
+    .food h4 {
+        font-size: 69%;
+    }
+    .move {
+        width: 173px;
+        font-size: 12px;
+    }
+      @keyframes mymove {
+        from {left: 0px;}
+        to {left: 90px;}
+      }
+}
+/****/
+@media screen and (max-width: 360px) {
+    .topbar .logo img {
+        height: 88px;
+        width: 96px;
+    }
+    .topbar h2 {
+        margin-top: 108px;
+    }
+    .contact .cont form input {
+        width: 240px;
+    }
+    .topbar .two ul li {
+        margin-left: -244px;
+        margin-top: 188px;
+    }
+    .topbar .one ul li {
+        margin-left: -186px;
+        margin-top: 158px;
+    }
+    .topbar h3 {
+        margin-left: -34px;
+    }
+    #mobile-manu {
+        width: 141px;
+        padding: 0px
+    }
+    .doctors .team .col-3 {
+        margin-left: 14px;
+    }
+    .doctors .team h1 {
+        margin: 24px;
+        margin-left: -72px;
+    }
+    .doctors .team button {
+        margin-left: 85px;
+    }
+    .services .ment h1 {
+        margin: 30px;
+        margin-left: -16px;
+    }
+    .services .ment .btn {
+        margin-left: 96px;
+    }
+    .contact .cont .msg input {
+        width: 189px;
+    }
+    .contact .cont h3 {
+        font-size: 14px;
+        margin-left: -57px;
+    }
+    .contact .cont h1 {
+        font-size: 20px;
+        margin-bottom: 11px;
+    }
+    .contact .cont form input[type=submit] {
+        margin-left: 3px;
+    }
+    .contact .cont .address h3 {
+        font-size: 12px;
+        margin-left: 53px;
+    }
+    .social p {
+        margin-left: -59px;
+    }
+}
+@media (max-width:340px){
+    .food h4 {
+        font-size: 67%;
+    }
+    .topbar .one ul li {
+        margin-left: -176px;
+    }
+    .topbar .two ul li {
+        margin-left: -230px;
+    }
+    .doctors .team h4 {
+        font-size: 12px;
+    }
+    .slider .item .text {
+        bottom: 178px;
+    }
+}
+/****/
+@media screen and (max-width: 320px) {
+    .topbar h2 {
+        margin-top: 108px;
+        font-size: 12px;
+    }
+    .topbar h3 {
+        margin-left: -37px;
+    }
+    .topbar .one ul li {
+        margin-left: -171px;
+    }
+    .topbar .two ul li {
+        margin-left: -223px;
+    }
+    .doctors .team button {
+        margin-left: 75px;
+    }
+    
+    .services .ment .btn {
+        margin-left: 70px;
+    }
+    .food h4 {
+        font-size: 65%;
+    }
+    .contact .cont {
+        margin-left: -11px;
+    }
+    .slider .owl-theme .item img {
+        height: 458px;
+    }
+    .about .aboutus img {
+        height: 238px;
+    }
+}
